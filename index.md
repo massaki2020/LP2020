@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome 
 
 You can use the [editor on GitHub](https://github.com/massaki2020/LP2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
